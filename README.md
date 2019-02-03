@@ -1,5 +1,8 @@
 # Remove-AI-Bots-from-Safezones
 
+PLEASE DONATE: https://github.com/juandayz/Remove-AI-Bots-from-Safezones/blob/master/DONATIONS.md
+
+
 By nova and me!
 
 This script is used to remove ai from missions like dzai, wai or whatever other mod that you are using with ai bots.
